@@ -19,6 +19,11 @@ This project tracks publicly reported barriers that affect poor communities’ h
 2. Location: Kwa-Zulu Natal, Northern Cape/Limpopo
 3. Relates to flooding, heatwave, -- healthcare access, service disruption, funding gaps, policy impact, or discrimination barriers
 
+## Scope
+Geographic: Kwa-Zulu Natal, Northern Cape/Limpopo
+Population Focus:
+Time Period: 
+
 
 
 
