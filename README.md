@@ -6,7 +6,13 @@ This project tracks publicly reported barriers that affect poor communities’ h
 
 
 ## Objectives
+* Monitor and record health access issues from credible public sources
 
+* Verify information using multiple sources where possible
+
+* Categorise issues to identify trends
+
+* Produce evidence-based summaries to support community and advocacy understanding
 ## Inclusion Criteria
 
 1. Describes a real health-related challenge affecting a community due to extreme weather events (flooding, heatwave)
