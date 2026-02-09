@@ -21,7 +21,9 @@ This project tracks publicly reported barriers that affect poor communities’ h
 
 ## Scope
 Geographic: Kwa-Zulu Natal, Northern Cape/Limpopo
+
 Population Focus:
+
 Time Period: 
 
 
