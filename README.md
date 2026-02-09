@@ -9,7 +9,9 @@ This project tracks publicly reported barriers that affect poor communities’ h
 
 ## Inclusion Criteria
 
-
+1. Describes a real health-related challenge affecting a community due to extreme weather events (flooding, heatwave)
+2. Location: Kwa-Zulu Natal, Northern Cape/Limpopo
+3. Relates to flooding, heatwave, -- healthcare access, service disruption, funding gaps, policy impact, or discrimination barriers
 
 
 
