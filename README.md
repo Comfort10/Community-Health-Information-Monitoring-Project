@@ -26,6 +26,8 @@ Population Focus: Rural communities, low-income urban communities,
 
 Time Period: January 2020 - January 2026
 
+## Issue Categories
+
 
 
 
