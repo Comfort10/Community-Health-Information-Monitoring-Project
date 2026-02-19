@@ -17,14 +17,14 @@ This project tracks publicly reported barriers that affect poor communities’ h
 
 1. Describes a real health-related challenge affecting a community due to extreme weather events (flooding, heatwave)
 2. Location: Kwa-Zulu Natal, Northern Cape/Limpopo
-3. Relates to flooding, heatwave, healthcare access, service disruption, funding gaps, policy impact, or 
+3. Relates to flooding, heatwave, healthcare access, service disruption, funding gaps, policy impact, or discrimination
 
 ## Scope
 Geographic: Kwa-Zulu Natal, Northern Cape/Limpopo
 
-Population Focus:
+Population Focus: Rural communities, low-income urban communities, 
 
-Time Period: 
+Time Period: January 2020 - January 2026
 
 
 
