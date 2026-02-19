@@ -28,6 +28,9 @@ Time Period: January 2020 - January 2026
 
 ## Issue Categories
 
+1. Service Disruptions: Interruptions with healthcare services
+2. Community Response: Supports initiatives or interventions
+3. 
 
 
 
